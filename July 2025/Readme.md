@@ -5,7 +5,8 @@ This folder contains my daily LeetCode POTD solutions for July 2025 in **C++**.
 | Day  | Problem Name                                      | Problem # | Difficulty | Tags                     | Link                                              |
 |------|---------------------------------------------------|-----------|------------|--------------------------|---------------------------------------------------|
 | 1    | Find the Original Typed String                    | 3330      | Easy       | String                   | [Link](https://leetcode.com/problems/find-the-original-typed-string-i/description/) |
-| 2  | Find the Original Typed String II                   | 3333      | Hard        | String, DP              | [Link](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02)                                               |
+| 2  | Find the Original Typed String II                   | 3333      | Hard        | String, DP              | [Link](https://leetcode.com/problems/find-the-original-typed-string-ii/description/)                                               |
+| 3    | Find the kth character in string game I                    | 3304      | Easy       | String                   | [Link](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/) |
 
 ---
 
